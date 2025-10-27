@@ -1,10 +1,9 @@
 # 🧠 Oracle-ebsR12-Governed-AI — Enterprise RAG Architecture
 
 <p align="center">
- <img src="../Oracle-EBS-AI.png" alt="Oracle EBS Governed AI Banner" width="100%">
+ <img src="EBS-APEX-LLM-Architecture.png" alt="Oracle EBS Governed AI Banner" width="100%">
 </p>
 
----
 
 ## 🏢 Overview
 
@@ -177,3 +176,4 @@ It provides a secure, policy-driven design that enables **AI assistance for HRMS
 
 **Alaaeldin Abdelmonem**  
 *AI Product Manager & Oracle Solutions Architect*
+
